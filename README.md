@@ -1,6 +1,10 @@
-# videoExplicativo
+# Video Explicativo
 Video explicativo para concurso de tesis de grado, de Academia Nacional de Ingeniería
 
 
-https://user-images.githubusercontent.com/70300679/182255232-8286f6f4-825f-4996-ae85-1d7a750da08a.mp4
+
+
+
+
+https://user-images.githubusercontent.com/70300679/182255360-d2970a84-bbb7-4b47-b99d-4c54c43b8f24.mp4
 
